@@ -1,14 +1,17 @@
 r.botsford.link
 vn12345.mvapspdmpg.com
 cdn.servetraff.com
-
-impression.appsflyer.com
-
+franecki.net
 drsmexa.xyz
 static.a-ads.com
 ad.a-ads.com
 click.inhousead.net
 assets.ahmybid.net
-
 js.onclckmn.com
 js.onclckinpg.com
+static.bookmsg.com
+
+#mobile games
+impression.appsflyer.com
+ae.iads.unity3d.com
+prod-mediate-events.applovin.com
